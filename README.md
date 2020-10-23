@@ -13,5 +13,5 @@ I'm Prithvi Thakur, a PhD student at the University of Michigan Ann Arbor. I wor
 - 💬 Ask me about anything!
 - 📫 How to reach me: thehalfspace@protonmail.com, prith@umich.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: You either die a Spongebob, or you live long enough to become a Squidward.
 
