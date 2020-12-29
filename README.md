@@ -6,12 +6,12 @@
 
 I'm Prithvi Thakur, a PhD student at the University of Michigan Ann Arbor. I work on numerical simulation of earthquake cycles. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Ableton Live, and looking to learn Davinci resolve for audio and video editing.
+- 🔭 I’m currently working on numerical code for earthquake sequence simulations.
+- 🌱 I’m currently learning Ableton Live, Obsidian, Hugo, Davinci Resolve.
 - 👯 I’m looking to collaborate on MPI based parallelization of my [spectral element code](https://github.com/thehalfspace/Spear) to simulate earthquake cycles.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything!
-- 📫 How to reach me: thehalfspace@protonmail.com, prith@umich.edu
+- 🤔 I’m looking for help with learning GPU programming.
+- 💬 Ask me about anything (SFW only pls)!
+- 📫 How to reach me: thehalfspace@pm.me, prith@umich.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You either die a Spongebob, or you live long enough to become a Squidward.
 
