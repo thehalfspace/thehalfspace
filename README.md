@@ -4,7 +4,7 @@
 **thehalfspace/thehalfspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Prithvi Thakur, a PhD student at the University of Michigan Ann Arbor. I am a seismologist working on numerical simulation of earthquake cycles. 
+I'm Prithvi Thakur. I am a data scientist and geophysicist and I work on modeling natural catastrophes, earthquakes, and risk. 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thehalfspace)](https://github.com/anuraghazra/github-readme-stats)
 
