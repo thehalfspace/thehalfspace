@@ -6,9 +6,6 @@
 
 I'm Prithvi Thakur. I am a Software Engineer, Data Scientist and Geophysicist. I have worked on statistical modeling of natural catastrophes, earthquakes, and risk as well as multi-physics modeling of long-term deformation of seismogenic faults. 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thehalfspace)](https://github.com/anuraghazra/github-readme-stats)
-
-
 - 🔭 I’m currently working as a Research Software Engineer at Brown University on HPC applications.
 - 🌱 I’m currently learning CNN/Deep Learning and Statistical Machine Learning.
 - 👯 I’m looking to collaborate on MPI/GPU based parallelization of my [spectral element code](https://github.com/thehalfspace/seas-seme) to simulate earthquake cycles.
