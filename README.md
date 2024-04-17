@@ -14,5 +14,3 @@ I'm Prithvi Thakur. I am a Software Engineer, Data Scientist and Geophysicist. I
 - 😄 Pronouns: He/Him
 - ⚡ 🍉🍉
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehalfspace)](https://github.com/anuraghazra/github-readme-stats)
-
